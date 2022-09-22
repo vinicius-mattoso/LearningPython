@@ -28,3 +28,10 @@ This repository was created to help colleagues learn to program in python. I wil
 
 [pt]
 Esse repositório foi criado no intuito de auxiliar colegas a aprender a programar em python. Irei abordar assuntos básico como definições de variáveis e aos poucos evoluindo para criação de gráficos e conforme forem surgindo as necessidades.
+
+
+## Content | Conteúdo
+
+[ ] Leitura de arquivos .txt, .csv, .xlsx e criação de gráficos com base no arquivo [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/a249459050399ecf02e86d903f126eefbf1303af/Tutorial_Leitura_de_arquivo_e_grafico.ipynb)
+
+[ ] Tipos de dados básicos em python [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/a249459050399ecf02e86d903f126eefbf1303af/Tutorial_Python_data_types.ipynb)
