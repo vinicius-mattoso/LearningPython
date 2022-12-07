@@ -38,4 +38,4 @@ Esse repositório foi criado no intuito de auxiliar colegas a aprender a program
 
 * Classes em python (POO - Programação Orientada a Objeto) [ [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/6a9464a487060e84517e4f174fcb243e88139888/Tutorial_Python_Classes.ipynb) ];
 
-* Operadores Lógicos em python ( IF | ELSE | ELIF ) [ [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/main/Tutorial_Python_Loops.ipynb) ];
+* Operadores Lógicos em python ( IF | ELSE | ELIF ) [ [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/main/Tutorial_Operadores_Logicos.ipynb) ];
