@@ -33,13 +33,13 @@ Esse repositório foi criado no intuito de auxiliar colegas a aprender a program
 
 ## Content | Conteúdo
 
-* Leitura de arquivos .txt, .csv, .xlsx e criação de gráficos com base no arquivo [ [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/a249459050399ecf02e86d903f126eefbf1303af/Tutorial_Leitura_de_arquivo_e_grafico.ipynb) [*pdf*](src/PDF files/Data_loading_pdf_material.pdf)];
+* Leitura de arquivos .txt, .csv, .xlsx e criação de gráficos com base no arquivo [ [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/a249459050399ecf02e86d903f126eefbf1303af/Tutorial_Leitura_de_arquivo_e_grafico.ipynb) | [*pdf*](https://github.com/vinicius-mattoso/LearningPython/blob/5993f000dbfe0f1a75f490c9a36c4decbf765a3b/src/PDF%20files/Data_loading_pdf_material.pdf)];
 
 * Tipos de dados básicos em python [ [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/a249459050399ecf02e86d903f126eefbf1303af/Tutorial_Python_data_types.ipynb) ];
 
 * Classes em python (POO - Programação Orientada a Objeto) [ [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/6a9464a487060e84517e4f174fcb243e88139888/Tutorial_Python_Classes.ipynb) ];
 
-* Classes em python (POO - Programação Orientada a Objeto) 2 [ [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/main/Orientacao_a_Objeto_em_python.ipynb) [*pdf*](https://github.com/vinicius-mattoso/LearningPython/blob/main/src/PDF%20files/Estrutura%20de%20classes%20(OOP)_v3.pdf) ];
+* Classes em python (POO - Programação Orientada a Objeto) 2 [ [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/main/Orientacao_a_Objeto_em_python.ipynb) | [*pdf*](https://github.com/vinicius-mattoso/LearningPython/blob/main/src/PDF%20files/Estrutura%20de%20classes%20(OOP)_v3.pdf) ];
 
 * Operadores Lógicos em python ( IF | ELSE | ELIF ) [ [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/main/Tutorial_Operadores_Logicos.ipynb) ];
 
