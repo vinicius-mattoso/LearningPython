@@ -33,7 +33,7 @@ Esse repositório foi criado no intuito de auxiliar colegas a aprender a program
 
 ## Content | Conteúdo
 
-* Leitura de arquivos .txt, .csv, .xlsx e criação de gráficos com base no arquivo [ [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/a249459050399ecf02e86d903f126eefbf1303af/Tutorial_Leitura_de_arquivo_e_grafico.ipynb) ];
+* Leitura de arquivos .txt, .csv, .xlsx e criação de gráficos com base no arquivo [ [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/a249459050399ecf02e86d903f126eefbf1303af/Tutorial_Leitura_de_arquivo_e_grafico.ipynb) [*pdf*](src/PDF files/Data_loading_pdf_material.pdf)];
 
 * Tipos de dados básicos em python [ [*material*](https://github.com/vinicius-mattoso/LearningPython/blob/a249459050399ecf02e86d903f126eefbf1303af/Tutorial_Python_data_types.ipynb) ];
 
